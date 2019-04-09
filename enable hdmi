@@ -1,0 +1,4 @@
+++<key>Mac-A5C67F76ED83108C</key>
+++<string>none</string>
+
+under ConfigMap->Dictionary in /System/Library/Extensions/AppleGraphicsControl.kext/Contents/PlugIns/AppleGraphicsDevicePolicy.kext/Contents/Info.plist
